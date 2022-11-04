@@ -10,4 +10,5 @@ scoop bucket add versions
 
 scoop install python38
 
+pip install matplotlib
 pip install spyder
